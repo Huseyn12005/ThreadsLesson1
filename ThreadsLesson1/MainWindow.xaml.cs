@@ -93,7 +93,6 @@ namespace ThreadsLesson1
         }
 
 
-
         private void EndClick(object sender, RoutedEventArgs e)
         {
 
